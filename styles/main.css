@@ -1,0 +1,23 @@
+body {
+  font-family: sans-serif;
+  margin-left:1rem;
+}
+#headingSU {
+  font-family: sans-serif;
+  color:pink;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+blockquote{
+    font-family: sans-serif;
+    margin-left:3rem;
+    font-size:110%;
+}
